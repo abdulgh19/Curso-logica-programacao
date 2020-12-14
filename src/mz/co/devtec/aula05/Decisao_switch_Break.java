@@ -1,7 +1,7 @@
 package mz.co.devtec.aula05;
 import java.util.Scanner;
 
-public class Decisao_switch_SemBreak {
+public class Decisao_switch_Break {
 
 	public static void main(String[] args) {
 

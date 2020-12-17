@@ -11,12 +11,12 @@ public class For {
 		System.out.println("Digite um numero:");
 		int numeroDigitado = entradaTeclado.nextInt();
 
-//Ciclo de repeticao For
+
 		for (int iteracao = 0; iteracao < numeroDigitado; iteracao ++) {
 			
 			System.out.println(numeroDigitado + iteracao);
 			
-		}	//Fim do ciclo de repeticao
+		}	
 		
 		System.out.println();
 		System.out.println("Fim da repeticao com FOR");

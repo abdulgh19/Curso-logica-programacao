@@ -1,6 +1,6 @@
 package mz.co.devtec.aula08.exercicios;
 
-public class Exercicio821 {
+public class Exercicioo821 {
 
 	public static void main(String[] args) {
 			
@@ -21,11 +21,10 @@ public class Exercicio821 {
 			}
 			
 		}
-//Mostra na saida os valores armazenados nas 3X4 posicoes do array
-		
-		for (int i = 0; i < testearray.length; i++) {
-			for (int j = 0; j < testearray[i].length; j++) {
-				System.out.println(+testearray[i][j]);
+	
+		for (int k = 0; k < testearray.length; k++) {
+			for (int k2 = 0; k2 < testearray[k].length; k2++) {
+				System.out.println(+testearray[k][k2]);
 
 			}
 		}
